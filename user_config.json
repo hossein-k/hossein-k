@@ -1,0 +1,57 @@
+{
+  "AccountIndex" : 28226796,
+  "AccountIdHash" : "1ccaba83ceb8b0b64752b5810f88df370d883787905a843b049781ce782c6c9e",
+  "TotalEquity" : 523917252118430000,
+  "TotalDebt" : 0,
+  "Assets" : [ {
+    "Index" : 0,
+    "Equity" : 1000,
+    "Debt" : 0
+  }, {
+    "Index" : 2,
+    "Equity" : 12290929,
+    "Debt" : 0
+  }, {
+    "Index" : 3,
+    "Equity" : 668865016,
+    "Debt" : 0
+  }, {
+    "Index" : 5,
+    "Equity" : 43071474,
+    "Debt" : 0
+  }, {
+    "Index" : 8,
+    "Equity" : 1433616,
+    "Debt" : 0
+  }, {
+    "Index" : 14,
+    "Equity" : 285663033,
+    "Debt" : 0
+  }, {
+    "Index" : 45,
+    "Equity" : 2828162,
+    "Debt" : 0
+  }, {
+    "Index" : 53,
+    "Equity" : 100770,
+    "Debt" : 0
+  }, {
+    "Index" : 56,
+    "Equity" : 20000,
+    "Debt" : 0
+  }, {
+    "Index" : 98,
+    "Equity" : 27654417,
+    "Debt" : 0
+  }, {
+    "Index" : 287,
+    "Equity" : 1238585525,
+    "Debt" : 0
+  }, {
+    "Index" : 288,
+    "Equity" : 24195474,
+    "Debt" : 0
+  } ],
+  "Root" : "20f88c94c222bde1ee781b828ee83e69ef5db53ec32354828fd602f13fc5d907",
+  "Proof" : [ "JemYanauyveuRf2Cc9XV2ft6V9Q7h1tzcyoq4k+2G4E=", "HCVHmq9fHlNhF/Y/5+CLKSxJUdCc6dJCWRODwNcl5JM=", "H350G1Oz3Tf3znRCx5zshEP8JviC6ThQKwPQinXsf6s=", "CSzTAif46RnY0X6bSttT1Vb/2Gl/ntWzAsquzN322QQ=", "HMJu3/rC7UeWUgnyTPn9vcHPSvpZDwuGShx81zsETG4=", "EK6avbrCAA8j9Z1AsxFulOPpuYRAfvRLI4e6vF9zQK4=", "BxkUNff/aSbg0qzIYecYVuh2BGU+HhikkiAqEE054wc=", "LhJkxcBkvZyQKTFZ0UcmtdNKlzzvgjvcYqp6KhZq6ik=", "HStt/ENMODEq3mflNE46MBTph+sLyJxx9bCU/rpbYw4=", "APkH+klX+EY+dQdFQw9gU1MR3JERMz2ho1+k3/vOhWg=", "HN75/MevFDS7LOzIlCi4iX8w3wR49+xipcH0GsqdyMU=", "HrRVDG/+TtJULeeKwvvKvc0D81jqYmF3GQZzE9yQc/c=", "CNLaAP8kPXlkMlrbFv/OP7ecal+Kih871UBh4kZTbSE=", "E4w7nv4uSPXjkHvNxhNo2eOsfk8a/DEmCZ/aS/2+87Q=", "KJurupy2UWAL+DzogHdW34obupKYXfM8PIz/Qa0dSkA=", "B3uLgytreCR6heYD1SZ48NBpVu2S1pR5sbKrW4ZYtIA=", "CGOEXUcMedsf+9O1eCUcedbgGuctEmF3EZbgbSmuhE0=", "Ea5R9Q8uLjr41uVlq7kyKfPUSK5a04ylVYv3OmPRkN8=", "HQ5SJdRZ7u+Ilt6vja5LFDtxvZMF0Iz2rNpJARkdgSo=", "BBPSAONgGBqeq2T1EC2qvUOtnNLC5rIyYkJ0k/S0sFQ=", "DBiskbgeXlR9RkA/VRzAw+ZDqK7wISF9YaWsMCLPXOw=", "FaJbqx3HlJH0Q2ttv6pAR/Cs669XzMnTih8jZhB5Rd4=", "JDWlHex/MiELgO6fVQb5OYMKNAWUyJaARmOKKnWojHs=", "LKMuAMTTGzuJN+TMFlx1DDnUUpEZ1ed41UKO6edS1Vg=", "AhD4W/pxBmBeS1dI4EXdIwl6AlGf0D6Q1wUWxzevlLU=", "KSsDrHkWBK1njh8MmdBNpGaMHTfUAeF09/X3dR9DY6Y=", "G3j3tGx68tGwEASTdGp53FVLiVKbv9e6NAYoXXX919M=", "FZccOkiNSW8NLDCniDlhv5iB8nemSPBCGmovBe5UdBc=" ]
+}
